@@ -198,7 +198,6 @@ a.active {
 }
 
 .get-Info i {
-    margin-left: 10px;
     color: white;
     font-size: 12px;
 
@@ -224,12 +223,6 @@ a.active {
         color: aquamarine;
     }
 
-    /* button {
-        position: relative;
-        left: 17%;
-        background-color: #1b9bff;
-    } */
-
     .social-icons i {
 
         font-size: 30px;
@@ -239,11 +232,6 @@ a.active {
     .get-Info div {
         width: 100px;
         height: 80px;
-    }
-
-    button {
-        /* position: relative;
-        left: 27%; */
     }
 
 }
