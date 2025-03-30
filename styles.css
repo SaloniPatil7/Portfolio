@@ -332,7 +332,10 @@ h3 {
     flex-wrap: wrap;
 
 }
-
+.project a{
+    text-decoration: underline;
+    color: white;
+}
 
 
 
