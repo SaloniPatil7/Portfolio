@@ -150,9 +150,10 @@ h2 {
 }
 
 .get-Info div {
-    background: linear-gradient(to right, #593ab0, #ca0f9b);
+    background: linear-gradient(to right, #593ab0, #c555a9);
     padding: 10px 20px;
     border-radius: 12px;
+    color: #fff;
 }
 
 /* mobile */
@@ -375,7 +376,7 @@ h2 {
 button {
     padding: 10px;
     color: white;
-    background: linear-gradient(to right, #593ab0, #ca0f9b);
+    background: linear-gradient(to right, #593ab0, #c555a9);
     border-radius: 10px;
     border: none;
     cursor: pointer;
